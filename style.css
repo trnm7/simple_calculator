@@ -1,0 +1,49 @@
+*{
+    background-color:rgb(181, 178, 174);
+}
+
+input {
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-right: 230px;
+    margin-left: 100px;
+    width: 100px;
+    margin-top: 100px;
+    margin-bottom: -350px;
+}
+button {
+    padding: 10px;
+    font-size: 25px;
+    font-weight: 600;
+}
+label {
+    font-size: 20px;
+    font-weight: 800;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+form {
+    margin-bottom: 50px;
+}
+button{
+    margin-top: 100px;
+    justify-content: space-around;
+}
+#addop{
+    margin-right: 400px;
+    margin-left: 400px;
+}
+#bttn{
+    margin-right: 300px;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 50px;
+}
+
