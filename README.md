@@ -12,7 +12,6 @@ This is a small and simple calculator project that tests the understanding of ja
 *Change Directory: [cd simple_calculator]<br>
 *Open index.html file on your browser
 # Live Page
-https://trnm7.github.io/simple_calculator/
 # Contact Informantion
 Incase of any enquiries or contributions, be sure to email me at [    ]
 # License
